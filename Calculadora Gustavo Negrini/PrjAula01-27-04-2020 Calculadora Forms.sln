@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrjAula01-27-04-2020", "PrjAula01-27-04-2020\PrjAula01-27-04-2020.csproj", "{49E5543E-6BCA-421C-B8A6-852E4F1D7051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora Gustavo Negrini", "PrjEx02\Calculadora Gustavo Negrini.csproj", "{1924F85B-673E-4382-9407-EE1E8B395D24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49E5543E-6BCA-421C-B8A6-852E4F1D7051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E5543E-6BCA-421C-B8A6-852E4F1D7051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E5543E-6BCA-421C-B8A6-852E4F1D7051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E5543E-6BCA-421C-B8A6-852E4F1D7051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1924F85B-673E-4382-9407-EE1E8B395D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1924F85B-673E-4382-9407-EE1E8B395D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1924F85B-673E-4382-9407-EE1E8B395D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1924F85B-673E-4382-9407-EE1E8B395D24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B940AE66-BFF0-411F-9A02-71795ADA857C}
+	EndGlobalSection
+EndGlobal

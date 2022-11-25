@@ -1,0 +1,10 @@
+D:\UNISO Lições\1-Seg-Linguagem de Programação 1\10-Aula 27.04 Calculadora Forms\Calculadora Gustavo Negrini\PrjEx02\bin\Debug\PrjEx02.exe.config
+D:\UNISO Lições\1-Seg-Linguagem de Programação 1\10-Aula 27.04 Calculadora Forms\Calculadora Gustavo Negrini\PrjEx02\bin\Debug\PrjEx02.exe
+D:\UNISO Lições\1-Seg-Linguagem de Programação 1\10-Aula 27.04 Calculadora Forms\Calculadora Gustavo Negrini\PrjEx02\bin\Debug\PrjEx02.pdb
+D:\UNISO Lições\1-Seg-Linguagem de Programação 1\10-Aula 27.04 Calculadora Forms\Calculadora Gustavo Negrini\PrjEx02\obj\Debug\Calculadora Gustavo Negrini.csprojAssemblyReference.cache
+D:\UNISO Lições\1-Seg-Linguagem de Programação 1\10-Aula 27.04 Calculadora Forms\Calculadora Gustavo Negrini\PrjEx02\obj\Debug\PrjEx02.frmCalculadora.resources
+D:\UNISO Lições\1-Seg-Linguagem de Programação 1\10-Aula 27.04 Calculadora Forms\Calculadora Gustavo Negrini\PrjEx02\obj\Debug\PrjEx02.Properties.Resources.resources
+D:\UNISO Lições\1-Seg-Linguagem de Programação 1\10-Aula 27.04 Calculadora Forms\Calculadora Gustavo Negrini\PrjEx02\obj\Debug\Calculadora Gustavo Negrini.csproj.GenerateResource.cache
+D:\UNISO Lições\1-Seg-Linguagem de Programação 1\10-Aula 27.04 Calculadora Forms\Calculadora Gustavo Negrini\PrjEx02\obj\Debug\Calculadora Gustavo Negrini.csproj.CoreCompileInputs.cache
+D:\UNISO Lições\1-Seg-Linguagem de Programação 1\10-Aula 27.04 Calculadora Forms\Calculadora Gustavo Negrini\PrjEx02\obj\Debug\PrjEx02.exe
+D:\UNISO Lições\1-Seg-Linguagem de Programação 1\10-Aula 27.04 Calculadora Forms\Calculadora Gustavo Negrini\PrjEx02\obj\Debug\PrjEx02.pdb
